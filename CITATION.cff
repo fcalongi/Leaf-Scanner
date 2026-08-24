@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Leaf Scanner"
+abstract: >-
+  A browser-based tool for measuring leaf area from a photo. The user
+  photographs a leaf next to a calibration swatch of known area, and the
+  tool estimates the leaf's real-world area from the ratio of leaf to
+  calibration pixel counts. Runs entirely client-side in the browser.
+type: software
+authors:
+  - family-names: "Alongi"
+    given-names: "Franklin"
+    orcid: "https://orcid.org/0000-0003-3611-7588"
+version: 1.0.0
+date-released: "2026-08-24"
+license: MIT
+doi: 10.5281/zenodo.22081531
+repository-code: "https://github.com/fcalongi/Leaf-Scanner"
+url: "https://github.com/fcalongi/Leaf-Scanner"
+keywords:
+  - leaf area
+  - plant science
+  - image analysis
+  - calibration
+  - phenotyping

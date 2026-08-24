@@ -58,6 +58,6 @@ MIT — see [LICENSE](LICENSE) for details.
 
 If you use Leaf Scanner in your work, please cite it:
 
-Alongi, F. (2026). *Leaf Scanner* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22081530
+Alongi, F. (2026). *Leaf Scanner* (Version 1.0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22081530
 
 

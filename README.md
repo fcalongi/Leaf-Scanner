@@ -53,3 +53,11 @@ Works in modern Chromium, Firefox, and Safari. Requires JavaScript and the HTML5
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
+
+## Citation
+
+If you use Leaf Scanner in your work, please cite it:
+
+Alongi, F. (2026). *Leaf Scanner* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22081530
+
+
